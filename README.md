@@ -5,8 +5,11 @@ amazon meta and Zomato.
 
 🎯 My Goals
 Daily Logic Building: Mastering at least one new Python logic every day.
-DSA Mastery: Solving Data Structures and Algorithms to sharpen problem-solving skills.
+DSA Mastery: Solving Data Structures and Algorithms to sharpen problem-solving 
+
+skills.
 Rural Insights: Leveraging Python to extract meaningful insights from Rural Data.
+
 📁 Progress Tracker
 [x] Hello World & Basic Print - The Journey Begins!
 [ ] Variables & Data Types - Coming Up Next
